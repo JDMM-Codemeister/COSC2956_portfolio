@@ -40,3 +40,8 @@
     text-decoration-color: black;
 }
 
+.monocle_img_box{
+    background-position: center;
+    width: 1000px;
+    height: auto;
+}
