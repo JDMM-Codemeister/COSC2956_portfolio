@@ -23,3 +23,12 @@
 .nav_item{
     color: white;
 }
+
+.nav_link{
+    text-decoration: none;
+}
+
+.nav_link:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
