@@ -44,8 +44,17 @@
     text-decoration-color: black;
 }
 
+.project_button{
+    text-decoration: none;
+    align-self: center;
+}
+
+.project_button:hover{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
 .monocle_img_box{
-    padding-top: 20px;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -72,10 +81,20 @@
     align-self: center;
 }
 
+.para_text{
+    display: flex;
+    color: black;
+    font-size: 24   px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-self: center;
+    padding: 5px;
+}
+
 .footer{
     display: flex;
     color: black;
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
     align-self: center;
+    padding: 25px;
 }
